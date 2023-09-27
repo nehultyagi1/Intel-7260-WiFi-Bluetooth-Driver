@@ -31,4 +31,5 @@ As of October 2016, Intel has stopped manufacturing the following 7260 family of
   </tr>
 </table>
 
-
+# NOTE:
+**This repository is under development and will be completed by the end of October 2023.**
