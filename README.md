@@ -32,5 +32,8 @@ As of October 2016, Intel has stopped manufacturing the following 7260 family of
   </tr>
 </table>
 
+**From December 31, 2022:**
+The wireless drivers for the 7260 Family of products is no longer be available for download.
+
 # NOTE:
-**This repository is under development and will be completed by the end of October 2023.**
+**I've created this repository where all the drivers are available for 7260 Family.**
